@@ -56,7 +56,6 @@ ol {
   color: #fff;
 }
 .main-button {
-  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
   background: #4d5ae5;
   font-weight: 500;
   font-size: 16px;
@@ -68,7 +67,7 @@ ol {
 }
 .main-button:hover,
 .main-button:focus {
-  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
+  
   background: #404bbf;
 }
 .title-list {
@@ -100,8 +99,6 @@ ol {
 }
 
 .img-character {
-  box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08),
-    0 1px 1px 0 rgba(46, 47, 66, 0.16), 0 1px 6px 0 rgba(46, 47, 66, 0.08);
   background: #fff;
 }
 .character-name {
