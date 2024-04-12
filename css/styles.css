@@ -90,9 +90,13 @@ ol {
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
+  text-transform: capitalize;
 }
-.characters-developers{
-    background: #f4f4fd;
+.characters-developers {
+  background: #f4f4fd;
+}
+.character-fon {
+  background: #fff;
 }
 
 .img-character {
@@ -101,6 +105,12 @@ ol {
   background: #fff;
 }
 .character-name {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 120%;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #2e2f42;
   text-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
   text-align: center;
 }
@@ -117,6 +127,10 @@ ol {
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
+  text-transform: capitalize;
+}
+.portfolio-fon {
+  background: #fff;
 }
 .name-portfolio {
   font-weight: 500;
